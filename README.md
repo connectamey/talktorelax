@@ -1,4 +1,4 @@
-# talktorelax
+# talktorelax (UI Only)
 
 About
 Talk2Relax has been made for you to reach out to therapist and deal with depression. 
